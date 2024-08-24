@@ -24,7 +24,6 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='https://github.com/user-attachments/assets/58123e7b-96aa-4c81-a83f-b2543b51cf51' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-#![prework](https://github.com/user-attachments/assets/58123e7b-96aa-4c81-a83f-b2543b51cf51)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
